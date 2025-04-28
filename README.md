@@ -37,11 +37,10 @@ Aqui você encontrará detalhes sobre cada desafio, atividades realizadas e meus
 
 ## ✨ Observações
 
-- Este repositório será atualizado conforme o curso avança!  
-- Estou usando **emojis** e **gifs** para deixar tudo mais divertido! 😄🎉  
+- Este repositório será atualizado conforme o curso avança!    
 - Acompanhe minha evolução! 🚀
 
-![Working Hard](https://media.giphy.com/media/3o7TKsQ4vAO6RjB062/giphy.gif)
+![Meditação](https://media1.tenor.com/m/8fqFZsC_wzEAAAAC/meditation.gif)
 
 ---
 
