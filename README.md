@@ -36,11 +36,11 @@ Aqui você encontrará detalhes sobre cada desafio, atividades realizadas e meus
 - [x] Concatenação ✏️
 - [x] Multiplas repetições 🎯
 - [x] Operações de Matematica Basicas 📐
-- [x] Entrada de dados
-- [x] Utilização eficiente do Github Copilot
-- [x] Utilização de condicionais em Python (if, else) para realizar verificações.
-- [x] Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
-- [x] Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+- [x] Entrada de dados 💥
+- [x] Utilização eficiente do Github Copilot 👥
+- [x] Utilização de condicionais em Python (if, else) para realizar verificações 💭
+- [x] Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar 💬
+- [x] Introdução ao conceito de palíndromos e sua aplicação em problemas de programação 📠
 ---
 
 ## ✨ Observações
