@@ -15,7 +15,7 @@ Aqui você encontrará detalhes sobre cada desafio, atividades realizadas e meus
 
 | Desafio | Descrição | Status |
 | :--- | :--- | :--- |
-| **Desafio 1** | Explorando colaboração e markdown | ✅ Finalizado |
+| **Desafio 1** | Explorando colaboração e markdown "Criei meu README de perfil | ✅ Finalizado |
 | **Desafio 2** | Utilizando as Ferramentas do Github para solucionar algoritmos em python | ✅ Finalizado |
 | **Desafio 3** | loading... | 🚧 Em andamento |
 
