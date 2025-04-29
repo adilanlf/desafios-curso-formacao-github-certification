@@ -16,7 +16,7 @@ Meu nome é **Adilan**, tenho **32 anos** e sou de **Mongaguá**, litoral da mar
 Estou em **transição de carreira**: trabalhei como **vigilante** por 9 anos e agora estou me dedicando 100% à área da **tecnologia**.
 
 Formado em Análise e Desenvolvimento de Sistemas em 2024 pela Universidade Santa Cecília (UNISANTA)  
-Atualmente, estudo e busco constantemente novos conhecimentos para construir minha nova jornada nesse mundo incrível! 🚀
+Atualmente, estudo e busco constantemente novos conhecimentos para construir minha nova jornada nesse mundo incrível!! 🚀
 
 ---
 

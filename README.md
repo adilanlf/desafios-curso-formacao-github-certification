@@ -16,7 +16,7 @@ Aqui você encontrará detalhes sobre cada desafio, atividades realizadas e meus
 | Desafio | Descrição | Status |
 | :--- | :--- | :--- |
 | **Desafio 1** | Explorando colaboração e markdown | ✅ Finalizado |
-| **Desafio 2** | loading... | 🚧 Em andamento |
+| **Desafio 2** | Utilizando as Ferramentas do Github para solucionar algoritmos em python | ✅ Finalizado |
 | **Desafio 3** | loading... | 🚧 Em andamento |
 
 
@@ -32,7 +32,10 @@ Aqui você encontrará detalhes sobre cada desafio, atividades realizadas e meus
 - [x] Resolver conflitos de merge 🧩
 - [x] Abrir e revisar Pull Requests 🔍
 - [x] Documentar todo o processo com commits bem estruturados 📝
-
+- [x] Manipulação de String 📝
+- [x] Concatenação ✏️
+- [x] Multiplas repetições 🎯
+- [x] Operações de Matematica Basicas 📐
 ---
 
 ## ✨ Observações
