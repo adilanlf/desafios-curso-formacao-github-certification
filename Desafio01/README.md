@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%98%84+Sejam+Bem+Vindos+ao+meu+Mundo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=C0C0C0&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%98%84+Sejam+Bem+Vindos+ao+meu+Mundo!)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@ Meu nome é **Adilan**, tenho **32 anos** e sou de **Mongaguá**, litoral da mar
 Estou em **transição de carreira**: trabalhei como **vigilante** por 9 anos e agora estou me dedicando 100% à área da **tecnologia**.
 
 Formado em Análise e Desenvolvimento de Sistemas em 2024 pela Universidade Santa Cecília (UNISANTA)  
-Atualmente, estudo e busco constantemente novos conhecimentos para construir minha nova jornada nesse mundo incrível!! 🚀
+Atualmente, estudo e busco constantemente novos conhecimentos para construir minha nova jornada nesse mundo incrível! 🚀
 
 ---
 
