@@ -16,8 +16,8 @@ Aqui você encontrará detalhes sobre cada desafio, atividades realizadas e meus
 | Desafio | Descrição | Status |
 | :--- | :--- | :--- |
 | **Desafio 1** | Explorando colaboração e markdown "Criei meu README de perfil" | ✅ Finalizado |
-| **Desafio 2** | Utilizando as Ferramentas do Github para solucionar algoritmos em python | ✅ Finalizado |
-| **Desafio 3** | loading... | 🚧 Em andamento |
+| **Desafio 2** | Utilizando as ferramentas do Github para solucionar algoritmos em Python | ✅ Finalizado |
+| **Desafio 3** | Utilizando recursos do Github em um processo OpenSource | ✅ Finalizado |
 
 
 ---
@@ -45,8 +45,8 @@ Aqui você encontrará detalhes sobre cada desafio, atividades realizadas e meus
 
 ## ✨ Observações
 
-- Este repositório será atualizado conforme o curso avança!    
-- Acompanhe minha evolução! 🚀
+- Este repositório foi atualizado até a conclusão do curso!    
+-  Obrigado por acompanhar minha evolução! 🚀
 
 ![Meditação](https://media1.tenor.com/m/8fqFZsC_wzEAAAAC/meditation.gif)
 
